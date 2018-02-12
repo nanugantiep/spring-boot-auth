@@ -23,3 +23,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+.sts4-cache/classpath-data.json
+.sts4-cache/classpath-data.json
+bin/
